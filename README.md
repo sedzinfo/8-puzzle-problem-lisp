@@ -97,10 +97,8 @@ What to do:
 - Prefer A* or btgs for hard goals.
 - Use dfs-bounded with a sensible limit.
 - Increase SBCL heap if needed:  
-  -This assigns arount 4 gigabytes of ram to solve  
-    - sbcl --dynamic-space-size 4096 --load "8-puzzle-solver.cl"  
-  -This assigns arount 64 gigabytes of ram to solve  
-    - sbcl --dynamic-space-size 65536 --load "8-puzzle-solver.cl"  
+  - sbcl --dynamic-space-size 4096 --load "8-puzzle-solver.cl"  
+  - sbcl --dynamic-space-size 65536 --load "8-puzzle-solver.cl"  
 
 ### Stuck in SBCL debugger prompt like 0[n]
 
