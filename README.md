@@ -5,8 +5,6 @@ This project contains Common Lisp code for solving the 8-puzzle using multiple s
 Main solver file:
 - 8-puzzle-solver.cl
 
-Other files in this folder are experiments and demos from earlier versions.
-
 ## Features
 
 The solver supports:
