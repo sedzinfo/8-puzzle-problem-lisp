@@ -111,3 +111,14 @@ If needed, close the terminal tab and start a new one.
 - The solver prints trial logs while searching.
 - Some hard goals may still take significant time.
 - A* is usually the best default choice for performance on this puzzle.
+
+![Stars](https://img.shields.io/github/stars/sedzinfo/8-puzzle-problem-lisp)
+![Watchers](https://img.shields.io/github/watchers/sedzinfo/8-puzzle-problem-lisp)
+![Repo Size](https://img.shields.io/github/repo-size/sedzinfo/8-puzzle-problem-lisp)
+![Open Issues](https://img.shields.io/github/issues/sedzinfo/8-puzzle-problem-lisp)
+![Forks](https://img.shields.io/github/forks/sedzinfo/8-puzzle-problem-lisp)
+![Last Commit](https://img.shields.io/github/last-commit/sedzinfo/8-puzzle-problem-lisp)
+![Contributors](https://img.shields.io/github/contributors/sedzinfo/8-puzzle-problem-lisp)
+![License](https://img.shields.io/github/license/sedzinfo/8-puzzle-problem-lisp)
+![Release](https://img.shields.io/github/v/release/sedzinfo/8-puzzle-problem-lisp)
+![Workflow Status](https://img.shields.io/github/actions/workflow/status/sedzinfo/8-puzzle-problem-lisp/main.yml)
